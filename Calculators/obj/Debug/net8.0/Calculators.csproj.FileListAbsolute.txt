@@ -1,0 +1,11 @@
+C:\Users\Khosi\Testing\IntroToTestFrameworks\Calculators\bin\Debug\net8.0\Calculators.deps.json
+C:\Users\Khosi\Testing\IntroToTestFrameworks\Calculators\bin\Debug\net8.0\Calculators.dll
+C:\Users\Khosi\Testing\IntroToTestFrameworks\Calculators\bin\Debug\net8.0\Calculators.pdb
+C:\Users\Khosi\Testing\IntroToTestFrameworks\Calculators\obj\Debug\net8.0\Calculators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khosi\Testing\IntroToTestFrameworks\Calculators\obj\Debug\net8.0\Calculators.AssemblyInfoInputs.cache
+C:\Users\Khosi\Testing\IntroToTestFrameworks\Calculators\obj\Debug\net8.0\Calculators.AssemblyInfo.cs
+C:\Users\Khosi\Testing\IntroToTestFrameworks\Calculators\obj\Debug\net8.0\Calculators.csproj.CoreCompileInputs.cache
+C:\Users\Khosi\Testing\IntroToTestFrameworks\Calculators\obj\Debug\net8.0\Calculators.dll
+C:\Users\Khosi\Testing\IntroToTestFrameworks\Calculators\obj\Debug\net8.0\refint\Calculators.dll
+C:\Users\Khosi\Testing\IntroToTestFrameworks\Calculators\obj\Debug\net8.0\Calculators.pdb
+C:\Users\Khosi\Testing\IntroToTestFrameworks\Calculators\obj\Debug\net8.0\ref\Calculators.dll
